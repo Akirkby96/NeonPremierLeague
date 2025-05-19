@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Alisson Becker",
+    "position": "Goalkeeper",
+    "club": "Liverpool",
+    "price": 5.5
+  },
+  {
+    "id": 2,
+    "name": "Virgil van Dijk",
+    "position": "Defender",
+    "club": "Liverpool",
+    "price": 6.5
+  },
+  {
+    "id": 3,
+    "name": "Trent Alexander-Arnold",
+    "position": "Defender",
+    "club": "Liverpool",
+    "price": 7.0
+  },
+  {
+    "id": 4,
+    "name": "Andrew Robertson",
+    "position": "Defender",
+    "club": "Liverpool",
+    "price": 6.5
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "position": "Midfielder",
+    "club": "Liverpool",
+    "price": 12.5
+  },
+  {
+    "id": 6,
+    "name": "Luis Díaz",
+    "position": "Midfielder",
+    "club": "Liverpool",
+    "price": 7.5
+  },
+  {
+    "id": 7,
+    "name": "Dominik Szoboszlai",
+    "position": "Midfielder",
+    "club": "Liverpool",
+    "price": 7.0
+  },
+  {
+    "id": 8,
+    "name": "Diogo Jota",
+    "position": "Forward",
+    "club": "Liverpool",
+    "price": 8.0
+  },
+  {
+    "id": 9,
+    "name": "Darwin Núñez",
+    "position": "Forward",
+    "club": "Liverpool",
+    "price": 7.5
+  },
+  {
+    "id": 10,
+    "name": "Cody Gakpo",
+    "position": "Forward",
+    "club": "Liverpool",
+    "price": 7.0
+  },
+  {
+    "id": 11,
+    "name": "Ederson",
+    "position": "Goalkeeper",
+    "club": "Manchester City",
+    "price": 5.5
+  },
+  {
+    "id": 12,
+    "name": "Ruben Dias",
+    "position": "Defender",
+    "club": "Manchester City",
+    "price": 6.0
+  },
+  {
+    "id": 13,
+    "name": "John Stones",
+    "position": "Defender",
+    "club": "Manchester City",
+    "price": 5.5
+  },
+  {
+    "id": 14,
+    "name": "Kyle Walker",
+    "position": "Defender",
+    "club": "Manchester City",
+    "price": 5.0
+  },
+  {
+    "id": 15,
+    "name": "Kevin De Bruyne",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "price": 10.5
+  },
+  {
+    "id": 16,
+    "name": "Phil Foden",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "price": 9.0
+  },
+  {
+    "id": 17,
+    "name": "Bernardo Silva",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "price": 8.0
+  },
+  {
+    "id": 18,
+    "name": "Rodri",
+    "position": "Midfielder",
+    "club": "Manchester City",
+    "price": 7.0
+  },
+  {
+    "id": 19,
+    "name": "Erling Haaland",
+    "position": "Forward",
+    "club": "Manchester City",
+    "price": 14.0
+  },
+  {
+    "id": 20,
+    "name": "Julian Alvarez",
+    "position": "Forward",
+    "club": "Manchester City",
+    "price": 7.0
+  },
+  {
+    "id": 21,
+    "name": "David Raya",
+    "position": "Goalkeeper",
+    "club": "Arsenal",
+    "price": 5.0
+  },
+  {
+    "id": 22,
+    "name": "William Saliba",
+    "position": "Defender",
+    "club": "Arsenal",
+    "price": 6.0
+  },
+  {
+    "id": 23,
+    "name": "Gabriel Magalhães",
+    "position": "Defender",
+    "club": "Arsenal",
+    "price": 5.5
+  },
+  {
+    "id": 24,
+    "name": "Ben White",
+    "position": "Defender",
+    "club": "Arsenal",
+    "price": 5.5
+  },
+  {
+    "id": 25,
+    "name": "Oleksandr Zinchenko",
+    "position": "Defender",
+    "club": "Arsenal",
+    "price": 5.5
+  },
+  {
+    "id": 26,
+    "name": "Declan Rice",
+    "position": "Midfielder",
+    "club": "Arsenal",
+    "price": 7.5
+  },
+  {
+    "id": 27,
+    "name": "Martin Ødegaard",
+    "position": "Midfielder",
+    "club": "Arsenal",
+    "price": 8.5
+  },
+  {
+    "id": 28,
+    "name": "Bukayo Saka",
+    "position": "Midfielder",
+    "club": "Arsenal",
+    "price": 9.5
+  },
+  {
+    "id": 29,
+    "name": "Gabriel Martinelli",
+    "position": "Forward",
+    "club": "Arsenal",
+    "price": 8.0
+  },
+  {
+    "id": 30,
+    "name": "Kai Havertz",
+    "position": "Forward",
+    "club": "Arsenal",
+    "price": 7.5
+  },
+  {
+    "id": 31,
+    "name": "André Onana",
+    "position": "Goalkeeper",
+    "club": "Manchester United",
+    "price": 5.0
+  },
+  {
+    "id": 32,
+    "name": "Harry Maguire",
+    "position": "Defender",
+    "club": "Manchester United",
+    "price": 4.5
+  },
+  {
+    "id": 33,
+    "name": "Lisandro Martínez",
+    "position": "Defender",
+    "club": "Manchester United",
+    "price": 5.0
+  },
+  {
+    "id": 34,
+    "name": "Luke Shaw",
+    "position": "Defender",
+    "club": "Manchester United",
+    "price": 5.0
+  },
+  {
+    "id": 35,
+    "name": "Bruno Fernandes",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "price": 8.5
+  },
+  {
+    "id": 36,
+    "name": "Mason Mount",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "price": 6.5
+  },
+  {
+    "id": 37,
+    "name": "Casemiro",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "price": 5.5
+  },
+  {
+    "id": 38,
+    "name": "Marcus Rashford",
+    "position": "Forward",
+    "club": "Manchester United",
+    "price": 8.5
+  },
+  {
+    "id": 39,
+    "name": "Rasmus Højlund",
+    "position": "Forward",
+    "club": "Manchester United",
+    "price": 7.0
+  },
+  {
+    "id": 40,
+    "name": "Antony",
+    "position": "Midfielder",
+    "club": "Manchester United",
+    "price": 25.0
+  },
+  {
+    "id": 41,
+    "name": "Jordan Pickford",
+    "position": "Goalkeeper",
+    "club": "Everton",
+    "price": 4.5
+  },
+  {
+    "id": 42,
+    "name": "James Tarkowski",
+    "position": "Defender",
+    "club": "Everton",
+    "price": 4.5
+  },
+  {
+    "id": 43,
+    "name": "Jarrad Branthwaite",
+    "position": "Defender",
+    "club": "Everton",
+    "price": 4.0
+  },
+  {
+    "id": 44,
+    "name": "Vitaliy Mykolenko",
+    "position": "Defender",
+    "club": "Everton",
+    "price": 4.5
+  },
+  {
+    "id": 45,
+    "name": "Abdoulaye Doucouré",
+    "position": "Midfielder",
+    "club": "Everton",
+    "price": 5.5
+  },
+  {
+    "id": 46,
+    "name": "Amadou Onana",
+    "position": "Midfielder",
+    "club": "Everton",
+    "price": 5.0
+  },
+  {
+    "id": 47,
+    "name": "Dwight McNeil",
+    "position": "Midfielder",
+    "club": "Everton",
+    "price": 5.5
+  },
+  {
+    "id": 48,
+    "name": "Jack Harrison",
+    "position": "Midfielder",
+    "club": "Everton",
+    "price": 5.5
+  },
+  {
+    "id": 49,
+    "name": "Dominic Calvert-Lewin",
+    "position": "Forward",
+    "club": "Everton",
+    "price": 6.0
+  },
+  {
+    "id": 50,
+    "name": "Beto",
+    "position": "Forward",
+    "club": "Everton",
+    "price": 5.5
+  },
+  {
+    "id": 51,
+    "name": "Hugo Lloris",
+    "position": "Goalkeeper",
+    "club": "Tottenham Hotspur",
+    "price": 4.5
+  },
+  {
+    "id": 52,
+    "name": "Cristian Romero",
+    "position": "Defender",
+    "club": "Tottenham Hotspur",
+    "price": 5.0
+  },
+  {
+    "id": 53,
+    "name": "Pedro Porro",
+    "position": "Defender",
+    "club": "Tottenham Hotspur",
+    "price": 5.0
+  },
+  {
+    "id": 54,
+    "name": "Destiny Udogie",
+    "position": "Defender",
+    "club": "Tottenham Hotspur",
+    "price": 4.5
+  },
+  {
+    "id": 55,
+    "name": "James Maddison",
+    "position": "Midfielder",
+    "club": "Tottenham Hotspur",
+    "price": 8.0
+  },
+  {
+    "id": 56,
+    "name": "Dejan Kulusevski",
+    "position": "Midfielder",
+    "club": "Tottenham Hotspur",
+    "price": 7.0
+  },
+  {
+    "id": 57,
+    "name": "Son Heung-min",
+    "position": "Forward",
+    "club": "Tottenham Hotspur",
+    "price": 10.0
+  },
+  {
+    "id": 58,
+    "name": "Richarlison",
+    "position": "Forward",
+    "club": "Tottenham Hotspur",
+    "price": 7.0
+  },
+  {
+    "id": 59,
+    "name": "Brennan Johnson",
+    "position": "Forward",
+    "club": "Tottenham Hotspur",
+    "price": 6.0
+  },
+  {
+    "id": 60,
+    "name": "Yves Bissouma",
+    "position": "Midfielder",
+    "club": "Tottenham Hotspur",
+    "price": 5.0
+  },
+  {
+    "id": 61,
+    "name": "Robert Sánchez",
+    "position": "Goalkeeper",
+    "club": "Chelsea",
+    "price": 4.5
+  },
+  {
+    "id": 62,
+    "name": "Wesley Fofana",
+    "position": "Defender",
+    "club": "Chelsea",
+    "price": 4.5
+  },
+  {
+    "id": 63,
+    "name": "Reece James",
+    "position": "Defender",
+    "club": "Chelsea",
+    "price": 5.5
+  },
+  {
+    "id": 64,
+    "name": "Marc Cucurella",
+    "position": "Defender",
+    "club": "Chelsea",
+    "price": 5.0
+  },
+  {
+    "id": 65,
+    "name": "Enzo Fernández",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "price": 7.0
+  },
+  {
+    "id": 66,
+    "name": "Cole Palmer",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "price": 8.0
+  },
+  {
+    "id": 67,
+    "name": "Mykhailo Mudryk",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "price": 6.5
+  },
+  {
+    "id": 68,
+    "name": "Conor Gallagher",
+    "position": "Midfielder",
+    "club": "Chelsea",
+    "price": 6.0
+  },
+  {
+    "id": 69,
+    "name": "Nicolas Jackson",
+    "position": "Forward",
+    "club": "Chelsea",
+    "price": 7.5
+  },
+  {
+    "id": 70,
+    "name": "Christopher Nkunku",
+    "position": "Forward",
+    "club": "Chelsea",
+    "price": 7.0
+  },
+  {
+    "id": 71,
+    "name": "José Sá",
+    "position": "Goalkeeper",
+    "club": "Wolverhampton Wanderers",
+    "price": 4.5
+  },
+  {
+    "id": 72,
+    "name": "Max Kilman",
+    "position": "Defender",
+    "club": "Wolverhampton Wanderers",
+    "price": 4.5
+  },
+  {
+    "id": 73,
+    "name": "Craig Dawson",
+    "position": "Defender",
+    "club": "Wolverhampton Wanderers",
+    "price": 4.0
+  },
+  {
+    "id": 74,
+    "name": "Rayan Aït-Nouri",
+    "position": "Defender",
+    "club": "Wolverhampton Wanderers",
+    "price": 4.5
+  },
+  {
+    "id": 75,
+    "name": "João Gomes",
+    "position": "Midfielder",
+    "club": "Wolverhampton Wanderers",
+    "price": 5.0
+  },
+  {
+    "id": 76,
+    "name": "Mario Lemina",
+    "position": "Midfielder",
+    "club": "Wolverhampton Wanderers",
+    "price": 5.0
+  },
+  {
+    "id": 77,
+    "name": "Pedro Neto",
+    "position": "Midfielder",
+    "club": "Wolverhampton Wanderers",
+    "price": 6.5
+  },
+  {
+    "id": 78,
+    "name": "Matheus Cunha",
+    "position": "Forward",
+    "club": "Wolverhampton Wanderers",
+    "price": 6.5
+  },
+  {
+    "id": 79,
+    "name": "Hwang Hee-chan",
+    "position": "Forward",
+    "club": "Wolverhampton Wanderers",
+    "price": 6.0
+  },
+  {
+    "id": 80,
+    "name": "Pablo Sarabia",
+    "position": "Midfielder",
+    "club": "Wolverhampton Wanderers",
+    "price": 5.5
+  },
+  {
+    "id": 81,
+    "name": "Emiliano Martínez",
+    "position": "Goalkeeper",
+    "club": "Aston Villa",
+    "price": 5.0
+  },
+  {
+    "id": 82,
+    "name": "Ezri Konsa",
+    "position": "Defender",
+    "club": "Aston Villa",
+    "price": 4.5
+  },
+  {
+    "id": 83,
+    "name": "Diego Carlos",
+    "position": "Defender",
+    "club": "Aston Villa",
+    "price": 4.5
+  },
+  {
+    "id": 84,
+    "name": "Lucas Digne",
+    "position": "Defender",
+    "club": "Aston Villa",
+    "price": 4.5
+  },
+  {
+    "id": 85,
+    "name": "John McGinn",
+    "position": "Midfielder",
+    "club": "Aston Villa",
+    "price": 6.0
+  },
+  {
+    "id": 86,
+    "name": "Youri Tielemans",
+    "position": "Midfielder",
+    "club": "Aston Villa",
+    "price": 5.5
+  },
+  {
+    "id": 87,
+    "name": "Leon Bailey",
+    "position": "Midfielder",
+    "club": "Aston Villa",
+    "price": 6.5
+  },
+  {
+    "id": 88,
+    "name": "Moussa Diaby",
+    "position": "Midfielder",
+    "club": "Aston Villa",
+    "price": 7.0
+  },
+  {
+    "id": 89,
+    "name": "Ollie Watkins",
+    "position": "Forward",
+    "club": "Aston Villa",
+    "price": 9.0
+  },
+  {
+    "id": 90,
+    "name": "Jhon Durán",
+    "position": "Forward",
+    "club": "Aston Villa",
+    "price": 6.0
+  },
+  {
+    "id": 91,
+    "name": "Nick Pope",
+    "position": "Goalkeeper",
+    "club": "Newcastle United",
+    "price": 5.0
+  },
+  {
+    "id": 92,
+    "name": "Kieran Trippier",
+    "position": "Defender",
+    "club": "Newcastle United",
+    "price": 6.0
+  },
+  {
+    "id": 93,
+    "name": "Fabian Schär",
+    "position": "Defender",
+    "club": "Newcastle United",
+    "price": 5.0
+  },
+  {
+    "id": 94,
+    "name": "Dan Burn",
+    "position": "Defender",
+    "club": "Newcastle United",
+    "price": 4.5
+  },
+  {
+    "id": 95,
+    "name": "Bruno Guimarães",
+    "position": "Midfielder",
+    "club": "Newcastle United",
+    "price": 7.5
+  },
+  {
+    "id": 96,
+    "name": "Joelinton",
+    "position": "Midfielder",
+    "club": "Newcastle United",
+    "price": 6.0
+  },
+  {
+    "id": 97,
+    "name": "Anthony Gordon",
+    "position": "Midfielder",
+    "club": "Newcastle United",
+    "price": 7.0
+  },
+  {
+    "id": 98,
+    "name": "Alexander Isak",
+    "position": "Forward",
+    "club": "Newcastle United",
+    "price": 8.5
+  },
+  {
+    "id": 99,
+    "name": "Callum Wilson",
+    "position": "Forward",
+    "club": "Newcastle United",
+    "price": 7.5
+  },
+  {
+    "id": 100,
+    "name": "Harvey Barnes",
+    "position": "Midfielder",
+    "club": "Newcastle United",
+    "price": 6.5
+  }
+]
